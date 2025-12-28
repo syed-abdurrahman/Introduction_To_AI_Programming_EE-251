@@ -3,7 +3,6 @@
 ## Lab Work and Practical Exercises
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-
 ![University](https://img.shields.io/badge/UET-Peshawar-darkgreen)
 ![Campus](https://img.shields.io/badge/Jalozai-Campus-orange)
 ![Repository Status](https://img.shields.io/badge/Repository-Academic-success)
